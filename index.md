@@ -1,6 +1,6 @@
 # Data Science Portfolio
 ---
-## Machine learning
+## EDA
 
 ### Lending Club Case Study
 
@@ -13,3 +13,15 @@ When the company receives a loan application, the company has to make a decision
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/simplyshravan/Lending_Club_Case_Study)
 
 <center><img src="assets/img/loan.jpeg"/></center>
+
+## Machine Learning
+
+### Bike Sharing Assignment
+
+Boom Bikes have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
+1. Which variables are significant in predicting the demand for shared bikes.
+2. How well those variables describe the bike demands
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/simplyshravan/Bike-Sharing-Assignment)
+
+
