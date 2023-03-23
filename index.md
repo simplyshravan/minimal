@@ -35,6 +35,6 @@ The company wants to know:
  1) Which variables are significant in predicting the price of a house, and
  2) How well those variables describe the price of a house.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/simplyshravan/Bike-Sharing-Assignment](https://github.com/simplyshravan/Advance-Regression-Assignment/))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/simplyshravan/Advance-Regression-Assignment/])
 
 
